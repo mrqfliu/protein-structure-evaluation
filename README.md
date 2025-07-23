@@ -55,7 +55,7 @@ This toolkit provides a comprehensive workflow to compare predicted protein stru
 
 
 ### Basic Workflow  
-1. Prepare input PDB files and place them in `./input_files/from_rcsb/` (or modify paths in the script).  
+1. Prepare input PDB files and modify paths in the script.  
 
 2. Run the evaluation script:  
    ```bash
