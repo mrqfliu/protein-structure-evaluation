@@ -28,13 +28,19 @@ This toolkit provides a comprehensive workflow to compare predicted protein stru
 
 
 ## Installation  
-1. Clone the repository:  
+1. Create the environment
+   ```bash
+   conda create -n protein-eval python=3.8 -y
+   conda activate protein-eval
+   ```
+   
+2. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/protein-structure-evaluation.git
    cd protein-structure-evaluation
    ```  
 
-2. Install dependencies:  
+3. Install dependencies:  
    ```bash
    pip install -r requirements.txt
    ```  
